@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Particular relation of the great victory obtained by the Protestants in London-Derry, and the taking of the Duke of Berwick prisoner to which is added, an account of the English courage of Robert Caston, master of a small vessel, that engaged two French privateers, with the particular of that action.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56491</idno>
+            <idno type="STC">Wing P598</idno>
+            <idno type="STC">ESTC R4191</idno>
+            <idno type="EEBO-CITATION">12246746</idno>
+            <idno type="OCLC">ocm 12246746</idno>
+            <idno type="VID">56963</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56491)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56963)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Particular relation of the great victory obtained by the Protestants in London-Derry, and the taking of the Duke of Berwick prisoner to which is added, an account of the English courage of Robert Caston, master of a small vessel, that engaged two French privateers, with the particular of that action.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Berwick, James Fitzjames, --  Duke of, 1670-1734.</term>
+               <term>Caston, Robert.</term>
+               <term>Londonderry (Northern Ireland) --  History --  Siege, 1688-1689 --  Sources.</term>
+               <term>Ireland --  History --  War of 1689-1691 --  Sources.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:56963:1"/>
+            <head>A Particular RELATION OF THE Great Victory obtained by the Proteſtants in <hi>LONDON-DERRY:</hi> And the taking of the Duke of <hi>Berwick</hi> Priſoner.</head>
+            <head type="sub">To which is added, An Account of the <hi>Engliſh</hi> Courage of <hi>Robert Caſton,</hi> Maſter of a ſmall Veſſel, that Engaged two <hi>French</hi> Privateers. With the Particular of that ACTION.</head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licenſed and Entred according to Order.</p>
+               </body>
+            </floatingText>
+            <p>MAjor-General <hi>Kirk,</hi> with the Suc<g ref="char:EOLhyphen"/>cours for <hi>Ireland</hi> under his Com<g ref="char:EOLhyphen"/>mand, ſet Sail from <hi>Liverpool</hi> for <hi>London-Derry</hi> the 21st. Inſtant, the Wind at E. N. E. but the Wind vering more Northerly, they were upon the 24th. forced back to a place, called <hi>High Lake,</hi> where they waited for a fair Wind.</p>
+            <p>On Friday Night arrived at <hi>Cheſter</hi> an Emi<g ref="char:EOLhyphen"/>nent Officer of the Garriſon of <hi>London-Derry,</hi> with an Expreſs to His Majeſty from the Pro<g ref="char:EOLhyphen"/>teſtants in that place. In his Paſſage he went on Board Major-General <hi>Kirk,</hi> to whom he gave a full Account of the Condition of the Garriſon, and of the lateſt Actions on both ſides, which according to the beſt and trueſt Relations, are as follow.</p>
+            <p>That the <hi>Iriſh</hi> and <hi>French</hi> Officers being extreamly Zealous in the Service, and the Emulation for Honour between both Parties being no leſs, they have during the time of the Siege been hotly forward and valorous in expoſing their Perſons; by which unlucky Conteſt of theirs, they have loſt a conſidera<g ref="char:EOLhyphen"/>ble Number of experienced and good Officers. So that it is certain the Flower of their Army is in a manner quite deſtroyed.</p>
+            <p>As to Particulars, it is credibly Reported, That having for ſome days play'd their Mor<g ref="char:EOLhyphen"/>ters, charg'd with ſmall Bombs, into the City, though with very little damage to the Beſieged, the Beſiegers were drawn into a Fatal Incon<g ref="char:EOLhyphen"/>venience by the Policy of the Commanders of the Garriſon. For the Governours being in<g ref="char:EOLhyphen"/>formed by their Spies, that the Enemy were aſſured of the great Miſchief they had done the Town, to confirm them in that belief, and to encourage them to make an Aſſault, in purſuance of the Advantage which they thought they had got, ordered all the Straw and com<g ref="char:EOLhyphen"/>buſtible ſtuff that could be ſpared in the Town, to be brought to the Walls, and ſo placed, as not to endanger the Houſes when ſet on fire. They alſo farther ordered all the Stones, which were before the Pavements of the Streets, to be lodg'd upon the Walls, together with a ſufficient quantity of great and ſmall Shot, and other Warlike Preparations proper to re<g ref="char:EOLhyphen"/>pel a General Aſſault, and that all Perſons ſhould be in a readineſs upon the Approach of the Enemy.</p>
+            <p>In the mean time the Beſiegers believing their Bombs had taken good Effect, continued throwing them, in hopes of further Execution. On the other ſide, the Proteſtants ſet all their Combuſtible Matter on fire, which raiſed a great Flame, and not only heightned the Con<g ref="char:EOLhyphen"/>ceit of the Beſiegers, as done by their Bombs, but, as the Wind then ſate, drave the Smoak into the Camp of the Beſiegers. However, notwithſtanding that diſadvantage, ſo confident they were of the ſucceſs of their Bombs, that they advanced to the Walls, and with as great Fury as they were numerous, began the Aſ<g ref="char:EOLhyphen"/>ſault. But to their Aſtoniſhment and Confu<g ref="char:EOLhyphen"/>ſion, they were received with ſuch an unex<g ref="char:EOLhyphen"/>pected Bravery, that ſeveral hundreds of their beſt Men were kill'd in Scaling the Walls; which was ſuch an Encouragement to the Be<g ref="char:EOLhyphen"/>ſieged, that at the ſame time Sallying out of the Garriſon, they took, as is Reported, the Duke of <hi>Berwick</hi> Priſoner, 27 Inferiour Offi<g ref="char:EOLhyphen"/>cers, 5 Field-Pieces, and one Morter, with ſeveral other Arms, and had the Plunder of the Field for ſeveral Miles, with a very inconſide<g ref="char:EOLhyphen"/>rable Loſs to the Beſieged; who the two next days, that is to ſay, Tueſday and Wedneſday, the 14th. and 15th. Inſtant, made two brisk Sallies upon the rally'd <hi>Iriſh,</hi> whoſe Out-Guards lay at the diſtance of more than twice Cannon<g ref="char:EOLhyphen"/>ſhot from the City, waiting for the laſt Rein<g ref="char:EOLhyphen"/>forcement which was ſent them from <hi>Dublin.</hi>
+            </p>
+            <p>The Governours have ſent the Beſiegers a
+<pb n="2" facs="tcp:56963:2"/>Meſſage by one of their own Party, who was taken Priſoner, That if they uſe any Violence or Cruelty to ſuch of the Proteſtants as may be under ther Power or ſhoot any more Bombs into the Town, they will not only hang up the Duke of <hi>Berwick,</hi> and ſuch other Priſoners as they have in their Cuſtody, but all that they ſhall afterwards take.</p>
+            <p>From <hi>Dublin</hi> we are inform'd, that there are ſtrange Diviſions in their pretended Par<g ref="char:EOLhyphen"/>liament there; for that the <hi>Iriſh</hi> Members, perceiving the late King's Deſigns to ſubject them to the <hi>French,</hi> with all the Eloquence and Speeches they can make, oppoſe the De<g ref="char:EOLhyphen"/>ſigns of their pretended Soveraign. So that it is hoped that in a ſhort time the Eyes of the ve<g ref="char:EOLhyphen"/>ry Papiſts in <hi>Ireland</hi> will be opened, to ſee the miſchievous Deſigns of their pretended King to enſlave them to a Foreign and Tyrannick Power.</p>
+         </div>
+         <div type="account">
+            <head>An <hi>ACCOUNT</hi> of the <hi>Engliſh</hi> Courage of <hi>Robert Caſton.</hi> Maſter of a Small Veſſel, that Engaged Two <hi>French</hi> Privateers. With the Parti<g ref="char:EOLhyphen"/>cular of that Action.</head>
+            <p>ON Thurſday, <hi>May</hi> the 16th. 1689. <hi>Robert Caſton</hi> of <hi>Ipſwich,</hi> Maſter of the <hi>Richard</hi>'s <hi>Advice</hi> of <hi>Ipſwich,</hi> Burthen 400 Tuns, ſailed from <hi>Newcaſtle</hi> in Company of about 20 Sail more Loaden Colliers for <hi>London;</hi> and on Sa<g ref="char:EOLhyphen"/>turday following, off of <hi>Foulneſs,</hi> were met by two <hi>Dunkirk</hi> Pickeroons, one of 18 Guns, and 130 Men, the other of 4 Guns, and 55 Men, who, as the Priſoners confeſs, having made the Fleet, reſolved to attaque and carry this <hi>Caſton</hi>'s Ship, as being Admiral, promiſing themſelves all the reſt eaſily, and accordingly came up with her to Rights. <hi>Caſton</hi> had but 6 Guns, his Son, 11 Men, one Gentleman, and three Gentlewomen Paſſengers, and thro' fear deſerted by his Conſort, (who promiſed to ſtand by him) all the reſt having no Guns, ſtood away as faſt as they could, and were by his Fight ſaved. The Pickeroons poured in their great Shot, and Boarded him three times with a great number of Men, and as often were beat off, and the Decks cleared by the <hi>Engliſh</hi> Small-ſhot and Courage; inſomuch, that the <hi>French</hi> ſeeing their Men drop ſo faſt, and very much diſabled in their Hulls, threw in two Granadoes into the Round-houſe, where the Maſter and two Men more were, but re<g ref="char:EOLhyphen"/>ceived little hurt, though they burnt and broke. The Engagement continued from One a Clock in the Afternoon until Four, when the <hi>French</hi> ſeeing no hopes of carrying her, ſheered off, leaving behind them on board the Collier, Swords, Cuttle-axes, Muskets, Piſtols, <hi>&amp;c.</hi> as alſo two of their Men (now Priſoners) one a <hi>Dane,</hi> the other an <hi>Oſtender,</hi> and divers of their Men dead, and hanging on the Stays and Sides of the Ship, and bore away for <hi>Dunkirk,</hi> whence Advice is ſince come, that the biggeſt was ſo diſabled, that they had great difficulty to get her into Port, and preſently to take out her Guns, to keep her above Water; and that they loſt in the Fight the afore-mentioned two Priſoners, 20 kill'd out-right, and 12 wound<g ref="char:EOLhyphen"/>ed, ſome Mortally.</p>
+            <p>The Maſter received a ſlight Wound with a Splinter in his left Leg, and a ſmall Bruiſe on his Thigh, his Son a Wound in his Face, and two of his Men hurt, but none of them dan<g ref="char:EOLhyphen"/>gerous.</p>
+            <p>The Paſſenger had the Misfortune from the very firſt Broad-ſide, to have his Leg ſore broke and ſhatter'd, as not to be able to make any Defence; his Name was <hi>Charles Rogers,</hi> and taken on Board at <hi>Newcaſtle.</hi> So ſoon as the Fight was over, the Maſter in three hours got into <hi>Yarmouth,</hi> where he got the aſſiſtance of three the moſt able Chirurgeons could be had, to dreſs Mr. <hi>Rogers</hi> of his Wounds; but they were all of Opinion, the only means left in probability to ſave his Life, was to cut off his Leg, which they did, but he dyed ſoon after it, and was decently buried at <hi>Yarmouth</hi> at the Charge of the Maſter.</p>
+            <p>And the ſaid Mr. <hi>Rogers</hi> being a Stranger to the Maſter, and all in the Ship, it's thought fit to add to this Relation, as follows.</p>
+            <p>There was found in his Pocket a Certificate from one <hi>Thomas Creed,</hi> Dated the 30 of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> 1687. Teſtifying, That <hi>Charles Rogers</hi> ſerved him Eight Years very faithfully, <hi>&amp;c.</hi> Alſo a Paſs, in the words following.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>THeſe are to Certifie, That</hi> Charles Rogers, <hi>a Gentleman, Riding in my Troop, in the Honourable Col.</hi> Edward Villers <hi>Regiment, at his own Requeſt is diſcharged the Service, in Or<g ref="char:EOLhyphen"/>der to his better Preferment. Given under my Hand the</hi> 11th. <hi>of</hi> May, 1689.</p>
+                  <closer>
+                     <signed>FR. ROGERS.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>On Saturday laſt the Maſter brought his Ship up the River to <hi>New Crane,</hi> where ſhe now lies, and the two Priſoners on Board him.</p>
+            <p>The Honour this brave Maſter hath done to his Country and to his Profeſſion, will, no doubt, not only meet with a ſuitable Reward and Encouragement from the Government, but a grateful Acknowledgment from thoſe Own<g ref="char:EOLhyphen"/>ers and Freighters, who by his, and his hand<g ref="char:EOLhyphen"/>ful of Men's Courage, had their Properties reſcued out of the hands of the Cowardly Enemies.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Black Bull</hi> in the <hi>Old-Baily.</hi> MDCLXXXIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
